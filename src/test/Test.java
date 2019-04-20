@@ -11,5 +11,6 @@ public class Test {
         System.out.println("hello world");
         System.out.println("this is emoji commit test");
         System.out.println("test git commit message");
+        System.out.println("test git commit message 2");
     }
 }
